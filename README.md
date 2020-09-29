@@ -1,5 +1,3 @@
-hi Friends
-This is Experimenting On FreeRTOS with Ubuntu
+# Description
 
-install for depedancy
-sudo apt-get install libc6-dev-i386
+This is a program written for freeRTOS to a hypotetical aircraft landing.
