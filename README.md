@@ -11,3 +11,7 @@ Then build the project `make`
 Next, verify compiled `./FreeRTOS-Sim`
 
 Enjoy!
+
+# Implentation
+
+Use a camera that generates bimap formated images.
